@@ -1,0 +1,39 @@
+{
+  "generic": {
+    "labels": {
+      "back": "Atrás",
+      "clear": "Limpiar",
+      "create": "Crear",
+      "export": "Exportar",
+      "next": "Siguiente",
+      "playlist": "Playlist",
+      "refresh": "Actualizar",
+      "songs": "Canciones"
+    }
+  },
+  "header": {
+    "logout": "Cerrar sesión",
+    "title": "Playlistify"
+  },
+  "login_screen": {
+    "log_in": "Inicie sesión para continuar",
+    "log_in_spotify": "Iniciar con Spotify",
+    "logging": "Iniciando sesión..."
+  },
+  "playlist_export": {
+    "click_here": "Clic aquí para abrir",
+    "description": "Descripción",
+    "exported": "Playlist exportada",
+    "name": "Nombre",
+    "title": "Exportar playlist"
+  },
+  "playlist_form": {
+    "no_artists": "No hay artistas seleccionados",
+    "playlist_size": "Tamaño de la playlist",
+    "search_artists": "Buscar artistas",
+    "selected_artists": "Artistas seleccionados",
+    "similar_artists": "¿Incluir artistas similares?",
+    "step_1_title": "¿Qué artistas te gustaría agregar a tu playlist?",
+    "step_2_title": "¿Cómo te gustaría que se construya tu playlist?"
+  }
+}
