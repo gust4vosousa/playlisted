@@ -1,8 +1,8 @@
 {
-  "name": "playlistify",
-  "version": "0.1.44",
+  "name": "playlisted",
+  "version": "0.0.1",
   "author": "Gustavo dos Anjos",
-  "homepage": "https://gust4vosousa.github.io/playlistify/",
+  "homepage": "https://gust4vosousa.github.io/playlisted/",
   "private": true,
   "scripts": {
     "predeploy": "yarn build",
